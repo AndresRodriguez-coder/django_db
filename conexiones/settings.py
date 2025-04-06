@@ -91,9 +91,9 @@ DATABASES = {
     },
     'mysql': {
         'ENGINE': 'django.db.backends.mysql',  # Para MySQL (XAMPP)
-        'NAME': 'nombre_db_mysql',
-        'USER': 'usuario_mysql',
-        'PASSWORD': 'contraseña_mysql',
+        'NAME': 'tienda',
+        'USER': 'root',
+        'PASSWORD': 'uno',
         'HOST': 'localhost',
         'PORT': '3306',
     },
